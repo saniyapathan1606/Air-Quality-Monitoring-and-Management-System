@@ -1,4 +1,4 @@
-Air Quality Monitoring & Management System
+#Air Quality Monitoring & Management System
 
 Air Quality Monitoring & Management System provides an end-to-end pipeline for ingesting, cleaning, clustering, mining frequent patterns, and visualizing air-quality data. Built for students and researchers who want an interactive dashboard + analytics pipeline to explore pollutant patterns and cluster air-quality regimes.
 
