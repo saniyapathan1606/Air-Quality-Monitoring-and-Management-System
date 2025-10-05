@@ -143,15 +143,6 @@ Push & open a Pull Request
 
 Include a brief description of changes and any dataset transformations used.
 
-📜 License
-
-Choose a license (e.g., MIT). Example:
-
-MIT License
-
-
-(Add LICENSE file to the repo.)
-
 📚 Acknowledgments & libraries
 
 Thanks to: pandas, numpy, scikit-learn, mlxtend (Apriori), streamlit, and other OSS tools.
