@@ -20,24 +20,6 @@ Interactive visualization via Streamlit
 
 Exports: clustered datasets, saved model (.pkl), and reports
 
-📁 Repository structure
-Air-Quality-Monitoring-and-Management-System/
-├─ data/
-│  ├─ station_day.csv            # core dataset (example)
-├─ models/
-│  ├─ air_quality_kmeans.pkl     # trained clustering model (pickle)
-├─ notebooks/
-│  ├─ EDA_and_modeling.ipynb
-├─ src/
-│  ├─ preprocessing.py
-│  ├─ clustering.py
-│  ├─ frequent_patterns.py
-│  ├─ utils.py
-├─ streamlit_app.py
-├─ main.py                       # orchestrates pipeline
-├─ requirements.txt
-├─ README.md
-
 🧰 Prerequisites
 
 Python 3.7+
